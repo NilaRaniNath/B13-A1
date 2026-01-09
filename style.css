@@ -25,7 +25,6 @@ header{
 }
 
 nav ul{
-    margin:34px 346px;
     margin:0px 346px;
     display: flex;
     list-style: none;
@@ -163,7 +162,7 @@ nav ul a:hover{
     margin:0px 120px;
     padding:80px 60px;
     line-height: 30px;
-    /* margin-bottom:44px; */
+  
 }
 .section2 h2{
     font-size: 48px;
